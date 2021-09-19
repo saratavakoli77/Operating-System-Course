@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "path.h": "c",
+        "defs.h": "c",
+        "user.h": "c",
+        "date.h": "c",
+        "param.h": "c"
+    }
+}
